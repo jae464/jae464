@@ -5,7 +5,7 @@
 요즘 취미로는 바이브 코딩으로 여러 개인 프로젝트를 만들고 있습니다.
 
 ### 개인 프로젝트
-1. AI로 만드는 웹소설 (25.7.15~) - https://ai-novel-studio.vercel.app/
+1. AI로 만드는 웹소설 - https://ai-novel-studio.vercel.app/
 
 
 
