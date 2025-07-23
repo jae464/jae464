@@ -6,6 +6,7 @@
 
 ### 개인 프로젝트
 1. AI로 만드는 웹소설 - https://ai-novel-studio.vercel.app/
+2. 라이어 게임 - https://betting-liar-game.vercel.app/
 
 
 
